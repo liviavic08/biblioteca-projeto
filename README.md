@@ -7,9 +7,9 @@ Ferramentas utilizadas
 -Frontend:React, Vite
 -Versionamento:Git e GitHub
 
-1. Executar a API
-Abra um terminal na pasta "biblioteca-api"
-python -m venv .venv
-Ative o ambiente virtual (.venv\Scripts\activate)
-pip install -r requirements.txt
-uvicorn main:app --reload
+Executar a API
+1. Abra um terminal na pasta "biblioteca-api"
+2. python -m venv .venv
+3. Ative o ambiente virtual (.venv\Scripts\activate)
+4. pip install -r requirements.txt
+5. uvicorn main:app --reload
